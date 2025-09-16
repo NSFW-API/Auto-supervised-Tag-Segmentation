@@ -1,0 +1,19 @@
+# Core
+torch>=2.2
+torchvision>=0.17
+timm>=0.9.16
+transformers>=4.41
+numpy
+pillow
+pandas
+opencv-python
+scikit-image
+scikit-learn
+tqdm
+requests
+pydantic
+pyyaml
+# optional (if installed, used for CRF refinement)
+pydensecrf
+# logging
+tensorboard
